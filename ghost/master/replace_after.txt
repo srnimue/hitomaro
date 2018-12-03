@@ -1,0 +1,18 @@
+‚³‚ñ‚³‚ñ	‚³‚ñ
+‚¿‚á‚ñ‚³‚ñ	‚¿‚á‚ñ
+‚­‚ñ‚³‚ñ	‚­‚ñ
+c	c\w5
+d	d\w3
+E	E\w3
+I	I\w3
+!!	!!\w3
+!?	!?\w3
+‚—‚P	\w1
+‚—‚Q	\w2
+‚—‚R	\w3
+‚—‚S	\w4
+‚—‚T	\w5
+‚—‚U	\w6
+‚—‚V	\w7
+‚—‚W	\w8
+‚—‚X	\w9

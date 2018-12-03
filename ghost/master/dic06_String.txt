@@ -1,0 +1,140 @@
+
+shiori互換dll『里々（さとり）』用辞書
+　
+　
+　メニューのボタン名とか。
+　ネットワーク更新の際のデータ置き場とか。
+　おすすめ／ポータルなURLの一覧とか。
+　
+
+
+
+
+＠portalrootbutton.caption
+実家とか(&R)
+基本的な(&R)
+ポータル的な(&R)
+
+＠recommendrootbutton.caption
+和歌とか(&P)
+お奨めっぽいの(&P)
+
+＠kero.recommendbuttoncaption
+にえのお気に入り(&R)
+ウキウキウォッチング(&R)
+タモさんでＧＯφ！(&R)
+
+＠updatebutton.caption
+ねとわく(&U)
+更新行進(&U)
+生まれ変わってみる(&U)
+
+＠vanishbutton.caption
+去ね(&F)
+永久的にさようなら(&F)
+消えてください(&F)
+
+＠readmebutton.caption
+現在のシェルについて(&R)
+
+＠vanishbutton.visible
+1
+
+＠homeurl
+http://www15.atpages.jp/~mwren/ukagaka/hitomaro/
+
+＠username
+（ユーザ名）
+
+
+＊コメント
+
+　URL一覧は……
+
+　１行目がサイト名
+　２行目がジャンプ先URL
+　３行目がバナーURL（省略可）
+　４行目以降はジャンプ時に表示される会話文（省略可）
+
+
+
+＊sakura.recommendsites
+月読庵
+http://www.geocities.com/Tokyo/Ginza/4111/
+
+＊sakura.recommendsites
+やまとうた　和歌
+http://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/
+
+＊sakura.recommendsites
+『百人一首』φ・響き合う歌の心
+http://homepage2.nifty.com/100-1/teika/index.htm
+
+＊sakura.recommendsites
+風賦比興雅頌
+http://www5a.biglobe.ne.jp/~pinewell/index.html
+
+
+＊sakura.portalsites
+里々（さとり）
+http://www.geocities.co.jp/SiliconValley-Cupertino/8536/
+http://www.geocities.co.jp/SiliconValley-Cupertino/8536/banner.png
+
+＊sakura.portalsites
+里々Wiki 
+http://www.mac.gn.to/satori/index.php
+
+＊sakura.portalsites
+-
+
+＊sakura.portalsites
+伺か
+http://usada.sakura.vg/
+
+
+＊sakura.portalsites
+SSP
+http://ssp.shillest.net/
+
+＊sakura.portalsites
+-
+＊sakura.portalsites
+何かゴーストセンター
+http://www.aqrs.jp/ngc/
+
+＊sakura.portalsites
+GHOST TOWN
+http://ghosttown.mikage.jp/
+
+＊sakura.portalsites
+-
+＊sakura.portalsites
+Cat of MOON
+http://2shin.net/nekotuki/
+http://2shin.net/nekotuki/banner/bana01.png
+：実家だね。
+：まあ、実家やね。
+
+
+＊kero.recommendsites
+タモリ倶楽部のへや
+http://www6.plala.or.jp/gene/tamori.htm
+
+＊kero.recommendsites
+テレビφ・ラジオφ・芸能1000ネタ大行進
+http://ww6.enjoy.ne.jp/%7Eare/
+
+＊kero.recommendsites
+空耳アワー研究所
+http://www.ztv.ne.jp/kawarada/SoraMimi.html
+
+＊kero.recommendsites
+φつぎはぎニュースφ傑作選
+http://www.geocities.jp/tamori_news/index.html
+
+＃　φは直後の文字の「特殊性」を無効化します。
+＃　ここでは「…」がそのままでは「…\w3」に置き換えられてしまうのを防いでます。
+＃　他にも置き換えたくないカッコ　（　などに使えます。
+
+
+

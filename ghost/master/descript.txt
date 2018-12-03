@@ -1,0 +1,15 @@
+
+charset,Shift_JIS
+
+craftman,Cat of MOON
+craftmanw,ŽHŒŽ‚ê‚ñ‚°
+craftmanurl,http://2shin.net/nekotuki/
+
+name,‚Ð‚Æ‚Ü‚ë‚Æ‚É‚¦
+type,ghost
+
+sakura.name,‚Ð‚Æ‚Ü‚ë
+kero.name,‚É‚¦
+
+icon,nie.ico
+shiori,satori.dll

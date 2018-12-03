@@ -1,0 +1,15 @@
+charset,Shift_JIS
+name,‚Ü‚·‚½[
+type,shell
+
+craftman,Cat of MOON
+craftmanw,HŒ—ù‰Ø
+craftmanurl,http://www.exfiction.net/~nekotuki/
+
+readme,readme.txt
+
+sakura.balloon.offsetx,0
+sakura.balloon.offsety,0
+
+sakura.balloon.alignment,none
+kero.balloon.alignment,none

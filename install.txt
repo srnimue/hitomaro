@@ -1,0 +1,7 @@
+charset,Shift_JIS
+name,‚Ð‚Æ‚Ü‚ë‚Æ‚É‚¦
+type,ghost
+directory,hitomaro
+
+refresh,0
+refreshundeletemask,satori_savedata.txt
