@@ -41,7 +41,7 @@ shiori互換dll『里々（さとり）』用辞書
 1
 
 ＠homeurl
-http://www15.atpages.jp/~mwren/ukagaka/hitomaro/
+https://raw.githubusercontent.com/srnimue/hitomaro/master/
 
 ＠username
 （ユーザ名）
