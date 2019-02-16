@@ -618,7 +618,7 @@ updates2.dau辺りがおかしいのかもな。
 ポータル的な(&R)
 
 ＠recommendrootbutton.caption
-お奨めっぽいの(&P)
+じゅんびちゅう(&P)
 
 ＠kero.recommendbuttoncaption
 オススメφ？んなもんねーよ(&R)
@@ -643,7 +643,7 @@ updates2.dau辺りがおかしいのかもな。
 1
 
 ＠homeurl
-http://www15.atpages.jp/~mwren/ukagaka/hitomaro/
+https://github.com/srnimue/hitomaro/find/master/
 
 ＠username
 （ユーザ名）
@@ -683,8 +683,7 @@ http://ssp.shillest.net/
 -
 ＊sakura.portalsites
 Cat of MOON
-http://2shin.net/nekotuki/
-http://2shin.net/nekotuki/banner/bana01.png
+http://nekotuki.skr.jp/
 ：配布サイトだね。
 ：（２５）駄目絵の宝庫。
 ついでにダメゴーストも存在します。
@@ -692,20 +691,6 @@ http://2shin.net/nekotuki/banner/bana01.png
 ：（４）……。
 
 ＊sakura.recommendsites
-月読庵
-http://www.geocities.com/Tokyo/Ginza/4111/
-
-＊sakura.recommendsites
-やまとうた　和歌
-http://www.asahi-net.or.jp/~sg2h-ymst/yamatouta/
-
-＊sakura.recommendsites
-『百人一首』φ・響き合う歌の心
-http://homepage2.nifty.com/100-1/teika/index.htm
-
-＊sakura.recommendsites
-風賦比興雅頌
-http://www5a.biglobe.ne.jp/~pinewell/index.html
 
 
 ＃───────　dic07_Time.txt　───

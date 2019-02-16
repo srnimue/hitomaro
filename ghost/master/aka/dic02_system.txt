@@ -530,7 +530,7 @@ updates2.dau辺りがおかしいのかもな。
 1
 
 ＠homeurl
-http://www15.atpages.jp/~mwren/ukagaka/hitomaro/
+https://github.com/srnimue/hitomaro/find/master/
 
 ＠username
 （ユーザ名）
@@ -570,8 +570,7 @@ http://ssp.shillest.net/
 -
 ＊sakura.portalsites
 Cat of MOON
-http://www.exfiction.net/~nekotuki/
-http://www.exfiction.net/~nekotuki/banner/bana01.png
+http://nekotuki.skr.jp/
 ：配布サイトだな。
 
 

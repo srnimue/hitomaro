@@ -519,7 +519,7 @@
 1
 
 ＠homeurl
-http://www15.atpages.jp/~mwren/ukagaka/hitomaro/
+https://github.com/srnimue/hitomaro/find/master/
 
 ＠username
 （ユーザ名）
@@ -557,8 +557,7 @@ http://ssp.shillest.net/
 -
 ＊sakura.portalsites
 Cat of MOON
-http://2shin.net/nekotuki/
-http://2shin.net/nekotuki/banner/bana01.png
+http://nekotuki.skr.jp/
 ：（１３２）実家……みたいなもんだな。
 ：まあ、実家やね。
 ：（１３５）たいしたもんないけどな。
