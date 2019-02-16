@@ -12,7 +12,7 @@
 【 動作確認 】 「 materia 」　「 SSP 」
 　　　　　　　　　特別な事はしていないので、他のでも動くと思います。
 
-　【 連絡先 】 にみゅう／皐月れんげ　（　Cat of MOON　）
+　【 連絡先 】 にみゅう/皐月れんげ　（　Cat of MOON　）
 　　　　　　　 　Mail◆ren-ge@hotmail.co.jp
 　　　　　　　　 Web◆http://nekotuki.skr.jp/
 
