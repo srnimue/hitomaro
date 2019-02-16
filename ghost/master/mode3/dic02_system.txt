@@ -519,7 +519,7 @@
 1
 
 ＠homeurl
-https://github.com/srnimue/hitomaro/find/master/
+https://raw.githubusercontent.com/srnimue/hitomaro/master/
 
 ＠username
 （ユーザ名）
