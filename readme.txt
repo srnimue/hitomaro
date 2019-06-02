@@ -13,12 +13,13 @@
 　　　　　　　　　特別な事はしていないので、他のでも動くと思います。
 
 　【 連絡先 】 にみゅう/皐月れんげ　（　Cat of MOON　）
-　　　　　　　 　Mail◆ren-ge@hotmail.co.jp
+　　　　　　　 　Mail◆catofmoon999@gmail.com
 　　　　　　　　 Web◆http://nekotuki.skr.jp/
 
 【転載・配布】 可　(　要事前連絡　)
 
-【　SHIORI　】　里々◆http://www.geocities.jp/poskoma/
+【　SHIORI　】　里々◆http://ukgk.s34.xrea.com/poskoma/
+	           里々/整備班カスタム◆http://ms.shillest.net/
 
 =======================================================
 
